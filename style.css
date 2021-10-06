@@ -1,0 +1,34 @@
+h1{
+  color:purple;
+  font-stretch:helvetica;
+}
+
+p{
+  color:red;
+  background-color:white;
+  boder:2px dotted red;
+}
+
+#highlight {
+  color:red;
+  background-color: white;
+  border:3px dotted red:
+}
+
+.top {
+  background-color: :red;
+}
+
+h3{
+  color:red;
+  border:3px double pink;
+}
+body{
+  background-color:pink;
+}
+img{
+  border:5px solid fuchsia;
+  width:25%
+  height:25%
+  margin-left:100px
+}
